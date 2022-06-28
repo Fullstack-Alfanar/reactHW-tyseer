@@ -27,7 +27,7 @@ Project created with react used:
 
 ### How to use 
 * `` use the deploy ``
-* `` use this link`` => [link of the proj]()
+* `` use this link`` => [link of the proj](https://myreact-hw.herokuapp.com/)
 
 ## Install
 To run this project, install it locally using git command:
